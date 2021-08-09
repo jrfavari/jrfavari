@@ -1,4 +1,4 @@
-## E ai! Eu sou o Lucio Favari Junior
+## E ai! Eu sou o Lucio Junior
 
 * ✏ Estou cursando ciencia de dados e IA
 * 🐍 Tenho grande interesse em Python
