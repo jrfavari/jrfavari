@@ -7,8 +7,7 @@
 <div style="display: inline_block"><br>
   <img algin="center" alt="python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img algin="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img algin="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg">
-  <img algin="center" height="40" width="50" src="https://seeklogo.com/images/R/r-project-logo-A101B11270-seeklogo.com.png">
+  
 </div>
 
 ## 
